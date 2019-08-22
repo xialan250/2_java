@@ -1,0 +1,6 @@
+*.class
+.settings
+2期/1 - 副本 (28)/springboot-helloworld/.project
+*.bak
+*.project
+*.classpath
